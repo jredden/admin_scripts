@@ -1,0 +1,6 @@
+A small collection of admin scripts
+
+reaper scripts allow compressing and timed removal of transient files, like log files.
+
+The scripts are designed to run out of /usr/local/ on linux or linux like systems.
+
